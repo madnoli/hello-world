@@ -42,7 +42,8 @@
 </head>
 <body>
 
-    <form id="loginForm">
+   <form id="loginForm">
+	<img src="https://dlskits.com/wp-content/uploads/2018/05/Dream-League-Soccer-Barcelona-Logo.png" alt="Logo">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
 
